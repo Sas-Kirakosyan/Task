@@ -52,7 +52,7 @@ function App() {
     return `${day} ${date} ${month} ${year}`
   }
 
-  // const sities = ['London', 'Los Angeles', 'Washington', 'san Francisco', 'Fresno'];
+ 
 
   useEffect(() => {
     if (city !== '') {
